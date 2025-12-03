@@ -1,0 +1,183 @@
+body {
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.dn {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 40px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn-primary {
+    width: 100%;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.text-danger {
+    color: #dc3545;
+}
+
+#cv {
+    background-color: #fff;
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#header {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+#header h2{
+    font-weight: bold;
+    font-size: 24px;
+    color: red;
+}
+
+#header h3 {
+    font-weight: bold;
+    font-size: 24px;
+    color: #333;
+}
+
+#gv {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+#gv h2 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
+
+#gv ul {
+    list-style: none;
+    padding: 0;
+}
+
+#gv li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+#tt {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+#tt h2 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
+
+#tt ul {
+    list-style: none;
+    padding: 0;
+}
+
+#tt li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+#vt {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+#vt h2 {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
+
+#vt ul {
+    list-style: none;
+    padding: 0;
+}
+
+#vt li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+#pc {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+#pc h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+#pc ul {
+    list-style: none;
+    padding: 0;
+}
+
+#pc li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
+
+#gd {
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 20px;
+}
+
+#gd h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+#gd ul {
+    list-style: none;
+    padding: 0;
+}
+
+#gd li {
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #555;
+}
